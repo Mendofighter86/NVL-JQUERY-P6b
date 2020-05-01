@@ -1,0 +1,6 @@
+::selection {color: gold;  background: azure;} 
+body{font-family: 'Playfair Display', serif;}
+
+.odd{
+	text-transform: uppercase;
+}
